@@ -2,8 +2,8 @@
 
 ## Overview of Project
 
-
 ### Purpose
+The purpose of this project was to review the data set of over 4000 crowdfunding campaigns and to provide an insight on which specific factors can contribute to its success.
 
 ## Analysis and Challenges
 
