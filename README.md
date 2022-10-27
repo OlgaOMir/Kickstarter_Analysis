@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project was to review the data set of over 4000 crowdfunding campaigns and to provide an insight on which specific factors can contribute to its success. Please follow [this link](www.github.com) to access raw data and analysis. 
+The purpose of this project was to review the data set of over 4000 crowdfunding campaigns and to provide an insight on which specific factors can contribute to its success. 
 
 ## Analysis and Challenges
 
@@ -26,7 +26,7 @@ Analysis of outcomes based on goals proved to be most challenging. Please refer 
      Based on the analysis, campaigns that start in May or June and keep its goal under $5,000 would have a greater chance of being successful. 
 - What can you conclude about the Outcomes based on Goals?
 
-
+     The success rate decreases as the campaign goal increases. Keeping the goal 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
