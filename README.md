@@ -23,10 +23,14 @@ Analysis of outcomes based on goals proved to be most challenging. Please refer 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
      
-     Based on the analysis, campaigns that start in May or June and keep its goal under $5,000 would have a greater chance of being successful. 
+     Based on the analysis, campaigns that start in May or June and keep its goal under 5,000 would have a greater chance of being successful. 
 - What can you conclude about the Outcomes based on Goals?
 
-     The success rate decreases as the campaign goal increases. Keeping the goal 
+     The success rate decreases as the campaign goal increases. 
 - What are some limitations of this dataset?
+
+      A few limitations of this dataset are: 
+          - The dataset is fairly smalls to draw conclusions
+          - The dataset doesn't explicitly state that goals currency was converted to USD and we are working with the same currency throughout the dataset
 
 - What are some other possible tables and/or graphs that we could create?
