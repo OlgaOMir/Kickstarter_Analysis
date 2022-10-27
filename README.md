@@ -28,9 +28,12 @@ Analysis of outcomes based on goals proved to be most challenging. Please refer 
 
      The success rate decreases as the campaign goal increases. 
 - What are some limitations of this dataset?
-
-      A few limitations of this dataset are: 
-          - The dataset is fairly smalls to draw conclusions
-          - The dataset doesn't explicitly state that goals currency was converted to USD and we are working with the same currency throughout the dataset
+     
+     A few limitations of this dataset are
+     1. The dataset is fairly smalls to draw conclusions
+     2. The dataset doesn't explicitly state that goals currency was converted to USD and we are working with the same currency throughout the dataset
 
 - What are some other possible tables and/or graphs that we could create?
+
+     - perform the analysis of outcome based on country of origination
+     - perform the outcome v backers analysis
